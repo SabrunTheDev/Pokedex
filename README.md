@@ -38,10 +38,6 @@ This JavaScript code fetches Pokemon data from the [PokeAPI](https://pokeapi.co/
    - Creates a Pokemon card using the fetched data.
    - Uses the `poke_container` to append the created card to the web page.
 
-### Colors
-
-Defines colors for different Pokemon types, used in styling the Pokemon cards.
-
 ### Pokemon Card HTML Template
 
 Defines the structure of a Pokemon card using an HTML template string.
@@ -54,7 +50,3 @@ Uncomment the appropriate section to choose between fetching all Pokemon or only
 - To fetch only the first 250 Pokemon, comment out the `getPokemonCount` call and uncomment the `fetchPokemon` call.
 
 Adjustments can be made to customize the code based on specific requirements or styling preferences.
-
-```
-
-```
